@@ -1,5 +1,5 @@
 
-# Workspace Setup
+# ![Badge Workspace Setup]
 
 *What to do before you start developing.*
 
@@ -33,3 +33,7 @@ least clone the following repositories:
 
 [Editor]: https://github.com/Daeton/Editor
 [Tools]: https://github.com/Daeton/Tools
+
+<!--❮ Badges ❯----------------------------------------------------------------->
+
+[Badge Workspace Setup]: https://img.shields.io/static/v1?label=&message=Workspace%20Setup&color=gray&style=for-the-badge&labelColor=428813&logoColor=white&logo=AzureArtifacts
