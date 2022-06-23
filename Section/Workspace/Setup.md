@@ -28,6 +28,13 @@ least clone the following repositories:
 
 <br>
 
+```shell
+git clone https://github.com/Daeton/Editor && \
+git clone https://github.com/Daeton/Tools
+```
+
+<br>
+
 
 <!----------------------------------------------------------------------------->
 
