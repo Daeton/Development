@@ -21,7 +21,7 @@ Packages are stored in: <br>
 
 #### Linked
 
-Package folders can also be **SymLinks**!
+Package folders can also be **[SymLinks]**!
 
 *This can be useful for your development setup.*
 
@@ -34,7 +34,7 @@ Package folders can also be **SymLinks**!
 
 <br>
 
-`/My Package/`
+`/Daves Package/`
 
  **⤷**  `Package.yaml`
 
@@ -45,3 +45,8 @@ Package folders can also be **SymLinks**!
 
 <br>
 <br>
+
+
+<!----------------------------------------------------------------------------->
+
+[SymLinks]: https://en.wikipedia.org/wiki/Symbolic_link
