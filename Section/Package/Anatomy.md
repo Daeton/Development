@@ -48,4 +48,4 @@ Package folders can also be **[SymLinks]**!
 
 [SymLinks]: https://en.wikipedia.org/wiki/Symbolic_link
 
-[`Package.yaml`]: Files/Package.md
+[`Package.yaml`]: Files/Manifest.md
