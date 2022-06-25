@@ -10,24 +10,6 @@
 
 <br>
 
-### ![Badge Name]
-
-The internal name of your package.
-
-
-| Example | Character <br> Limit
-|:-------:|:--------------------:
-| `file-icons` | `100`
-
-#### Note
-
-Two different packages can have the same <br>
-name as the id of a package is made up by:
-
-`<Repository Owner>-<Name>`
-
-<br>
-
 ### ![Badge Title]
 
 The display name of your package.
@@ -35,6 +17,11 @@ The display name of your package.
 | Example | Character <br> Limit
 |:-------:|:--------------------:
 | `File Icons` | `100`
+
+#### Note
+
+This is not your package id, it's just a title, <br>
+the id is generated from your repository.
 
 <br>
 
