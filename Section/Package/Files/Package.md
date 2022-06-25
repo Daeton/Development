@@ -8,13 +8,16 @@
 
 ## Fields
 
+<br>
+
 ### ![Badge Name]
 
 The internal name of your package.
 
-#### Example
 
-`file-icons`
+| Example | Character <br> Limit
+|:-------:|:--------------------:
+| `file-icons` | `100`
 
 #### Note
 
@@ -29,9 +32,9 @@ name as the id of a package is made up by:
 
 The display name of your package.
 
-#### Example
-
-`File Icons`
+| Example | Character <br> Limit
+|:-------:|:--------------------:
+| `File Icons` | `100`
 
 <br>
 
@@ -39,26 +42,27 @@ The display name of your package.
 
 A short description of your package.
 
-#### Example
-
-`Icons for files.`
+| Example | Character <br> Limit
+|:-------:|:--------------------:
+| `Icons for files.` | `2 x 60`
 
 #### Note
 
-The description will be trimmed <br>
-down to  `2`  lines of  `60`  chars.
+If the description doesn't contain a `\n`, it <br>
+will be broken at the `60` character mark.
 
 <br>
 
+
+
 ### ![Badge GitHub]
 
-The repository link shortened from
+The repository link in shortened from.
 
-`https://github.com/DaetonPackages/File-Icons`
 
-to
-
-`DaetonPackages/File-Icons`
+| Example | Character <br> Limit
+|:-------:|:--------------------:
+| `https://github.com/DaetonPackages/File-Icons`<br>↓<br>`DaetonPackages/File-Icons` | `100`
 
 <br>
 
@@ -66,9 +70,9 @@ to
 
 The version of your package.
 
-#### Example
-
-`1.2.4`
+| Example | Character <br> Limit
+|:-------:|:--------------------:
+| `1.2.4` | `60`
 
 <br>
 
@@ -76,9 +80,9 @@ The version of your package.
 
 The license of your package.
 
-#### Examples
-
-`AGPLv3` , `MIT` , `GPLv3` , `Apache 2` , `Unlicense`
+| Examples | Character <br> Limit
+|:-------:|:--------------------:
+| `AGPLv3` <br> `MIT` <br> `GPLv3` <br> `Apache 2` <br> `Unlicense` | `60`
 
 <br>
 <br>
