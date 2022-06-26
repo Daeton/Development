@@ -72,12 +72,23 @@ The license of your package.
 | `AGPLv3` <br> `MIT` <br> `GPLv3` <br> `Apache 2` <br> `Unlicense` | `60`
 
 <br>
+
+### ![Badge Activate]
+
+The script called when the package is enabled.
+
+#### Example
+
+`My Scripts/Some Script.js`
+
+<br>
 <br>
 
 
 <!--❮ Badgde ❯----------------------------------------------------------------->
 
 [Badge Description]: https://img.shields.io/static/v1?label=&message=Description&color=006643&style=for-the-badge
+[Badge Activate]: https://img.shields.io/static/v1?label=&message=Activate&color=609926&style=for-the-badge
 [Badge Version]: https://img.shields.io/static/v1?label=&message=Version&color=C70D2C&style=for-the-badge
 [Badge License]: https://img.shields.io/static/v1?label=&message=License&color=A9225C&style=for-the-badge
 [Badge GitHub]: https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge
